@@ -3,7 +3,5 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="btn_transportasi">Transportasi</string>
-    <string name="btn_hewan">Binatang</string>
-    <string name="btn_sayur">Sayuran</string>
+    <string name="btn_trns_text">Transport</string>
 </resources>
